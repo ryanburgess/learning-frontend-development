@@ -7,12 +7,25 @@ HyperText Markup Language, commonly referred to as HTML, is the standard markup 
 ###Articles
 - [HTML5 Semantics](http://www.smashingmagazine.com/2011/11/html5-semantics/)
 
+###Tools
+- [Modernizr](https://modernizr.com/)
+
+
 ##CSS
 Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.
 
 ###Prerpocessors
 ####[SASS](http://sass-lang.com/)
 ####[LESS](http://lesscss.org/)
+
+###Architecture
+- [SMACSS](http://smacss.com)
+- [BEM](https://en.bem.info/method/)
+- [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+
+###Tools
+- [Normalize.css](http://nicolasgallagher.com/about-normalize-css/)
+
 
 ##JavaScript
 JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
@@ -28,9 +41,11 @@ JavaScript is a high-level, dynamic, untyped, and interpreted programming langua
 ####[Backbone.js](http://backbonejs.org/)
 ####[Angular.js](https://angularjs.org/)
 ####[Ember.js](http://emberjs.com/)
-####[Polymer](https://www.polymer-project.org/1.0/)
+####[Polymer](https://www.polymer-project.org/)
+####[jQuery](https://jquery.com/)
+####[Metor](https://www.meteor.com/)
+####[Knockout](http://knockoutjs.com/)
 
-###Libraries
 
 ##Node.js
 As an asynchronous event driven framework, Node.js is designed to build scalable network applications.
@@ -54,8 +69,11 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 ####[Jade](http://jade-lang.com/)
 ####[Handlebars](http://handlebarsjs.com/)
 
+
 ##Tools
 ###[Sublime](http://www.sublimetext.com/)
+
+###[Atom](http://www.sublimetext.com/)
 
 ###[Vim](http://www.vim.org/)
 
@@ -63,4 +81,41 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 
 ###[Gulp](http://gulpjs.com/)
 
+###[Webpack](https://webpack.github.io/)
+
 ###[npm](https://www.npmjs.com/)
+
+###[Bower](http://bower.io/)
+
+###[Yeoman](http://yeoman.io/)
+
+
+##Resource sites
+- [Smashing Magazine](http://www.smashingmagazine.com/)
+- [CSS Tricks](https://css-tricks.com/)
+
+
+##Podcasts
+- [JS Jabber](https://devchat.tv/js-jabber)
+- [Shop Talk](http://shoptalkshow.com/)
+- [The Changelog](https://changelog.com/podcast/)
+- [Node Up](http://nodeup.com/)
+- [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+- [The Big Web Show](http://5by5.tv/bigwebshow/)
+- [Boagworld](https://boagworld.com/show/)
+- [The Web Ahead](http://5by5.tv/webahead)
+- [FiveJS](https://fivejs.codeschool.com/)
+
+
+##Conferences
+- [CSS DevConf](http://cssdevconf.com)
+- [Fluent](http://conferences.oreilly.com/fluent/javascript-html-us)
+- [Forward JS](http://forwardjs.com/)
+- [React Rally](http://www.reactrally.com/)
+- [Node Summit](http://nodesummit.com/)
+
+
+##Learning sites
+- [Frontend Masters](https://frontendmasters.com/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Lynda](http://www.lynda.com/)
