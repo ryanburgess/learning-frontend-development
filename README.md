@@ -84,6 +84,10 @@ JavaScript is a high-level, dynamic, untyped, and interpreted programming langua
 
 ###Frameworks
 ####[React](http://facebook.github.io/react/)
+- [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+- [http://ryanclark.me/getting-started-with-react/](http://ryanclark.me/getting-started-with-react/)
+- [Falcor: Simplifying Your Data (video)](https://www.youtube.com/watch?v=nCksc3tdM-A)
+- [6 Reasons Why We Love React.js](https://www.syncano.io/blog/reactjs-reasons-why-part-1/)
 
 ####[Backbone.js](http://backbonejs.org/)
 - [Getting Started with Backbone.js](http://code.tutsplus.com/tutorials/getting-started-with-backbone-js--net-19751)
@@ -225,9 +229,12 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 
 
 ##Resource sites
+- [Hacker News](https://news.ycombinator.com/)
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [Code Responsible](https://coderesponsible.com/)
+- [Hack Hands](https://hackhands.com)
+- [1st Web Designer](http://www.1stwebdesigner.com/)
 
 
 ##Podcasts
