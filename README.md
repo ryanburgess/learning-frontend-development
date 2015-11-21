@@ -50,9 +50,9 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 ####[Restify](http://restify.com/)
 
 ###Templating
-- [Dust](http://www.dustjs.com/)
-- [Jade](http://jade-lang.com/)
-- [Handlebars](http://handlebarsjs.com/)
+####[Dust](http://www.dustjs.com/)
+####[Jade](http://jade-lang.com/)
+####[Handlebars](http://handlebarsjs.com/)
 
 ##Tools
 ###[Sublime](http://www.sublimetext.com/)
