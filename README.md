@@ -70,7 +70,6 @@ JavaScript is a high-level, dynamic, untyped, and interpreted programming langua
 - [Best Practices When Working With JavaScript Templates](http://code.tutsplus.com/tutorials/best-practices-when-working-with-javascript-templates--net-28364)
 - [Object properties in JavaScript](http://www.2ality.com/2012/10/javascript-properties.html)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-- [JavaScript Allonge](https://leanpub.com/javascript-allonge)
 - [Codecademy Self-Paced JavaScript Course](http://www.codecademy.com/tracks/javascript)
 - [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 - [Debugging Asynchronous JavaScript with Chrome DevTools](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
@@ -79,6 +78,14 @@ JavaScript is a high-level, dynamic, untyped, and interpreted programming langua
 ###Books
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+  - [Scope & Closure](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+  - [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+  - [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+  - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+- [JavaScript Allongé](https://leanpub.com/javascriptallongesix)
+
 
 ###Frameworks
 ####[React](http://facebook.github.io/react/)
@@ -199,6 +206,10 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 ###[Atom](http://www.sublimetext.com/)
 
 ###[Vim](http://www.vim.org/)
+- [VIM Adventures](http://vim-adventures.com/)
+- [MacVim](https://github.com/macvim-dev/macvim)<sup>*</sup>
+- [Maximum Awesome](https://github.com/square/maximum-awesome)
+- [The NERD Tree](https://github.com/scrooloose/nerdtree)
 
 ###[Grunt](http://gruntjs.com/)
 - [Writing an awesome build script with Grunt](http://www.sitepoint.com/writing-awesome-build-script-grunt/)
@@ -221,6 +232,13 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 
 ###[Yeoman](http://yeoman.io/)
 
+###[iTerm 2](https://www.iterm2.com/)
+
+###[tmux](https://tmux.github.io/)
+
+###[Homebrew](http://brew.sh/)
+
+\* Can be installed with Homebrew
 
 ##Resource sites
 - [Smashing Magazine](http://www.smashingmagazine.com/)
