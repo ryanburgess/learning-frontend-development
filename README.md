@@ -140,14 +140,14 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 ###Books
 
 ###Frameworks
-####[Express](http://expressjs.com/)
-####[Hapi](http://hapijs.com/)
-####[Restify](http://restify.com/)
+- [Express](http://expressjs.com/)
+- [Hapi](http://hapijs.com/)
+- [Restify](http://restify.com/)
 
 ###Templating
-####[Dust](http://www.dustjs.com/)
-####[Jade](http://jade-lang.com/)
-####[Handlebars](http://handlebarsjs.com/)
+- [Dust](http://www.dustjs.com/)
+- [Jade](http://jade-lang.com/)
+- [Handlebars](http://handlebarsjs.com/)
 
 ###Architecture
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
@@ -227,6 +227,7 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 ##Resource sites
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [CSS Tricks](https://css-tricks.com/)
+- [Code Responsible](https://coderesponsible.com/)
 
 
 ##Podcasts
@@ -239,6 +240,48 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 - [Boagworld](https://boagworld.com/show/)
 - [The Web Ahead](http://5by5.tv/webahead)
 - [FiveJS](https://fivejs.codeschool.com/)
+
+##Influencers
+
+###Who to follow on Twitter
+- [@paul_irish](http://twitter.com/paul_irish)
+- [@csswizardry](https://twitter.com/csswizardry)
+- [@substack](https://twitter.com/substack)
+- [@aarron](https://twitter.com/aarron)
+- [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+- [@trevnorris](https://twitter.com/trevnorris)
+- [@brad_frost](https://twitter.com/brad_frost)
+- [@sebmck](https://twitter.com/sebmck)
+- [@codepo8](https://twitter.com/codepo8)
+- [@aerotwist](https://twitter.com/aerotwist)
+- [@LeaVerou](https://twitter.com/LeaVerou)
+- [@davidwalshblog](https://twitter.com/davidwalshblog)
+- [@Souders](https://twitter.com/Souders)
+- [@floydophone](https://twitter.com/floydophone)
+- [@nikmd23](https://twitter.com/nikmd23)
+- [@nickla](https://twitter.com/nickla)
+- [@jina](https://twitter.com/jina)
+- [@chriscoyier](https://twitter.com/chriscoyier)
+- [@mjackson](https://twitter.com/mjackson)
+- [@zeldman](https://twitter.com/zeldman)
+- [@LeaVerou](https://twitter.com/LeaVerou)
+- [@feather](https://twitter.com/feather)
+- [@rem](https://twitter.com/rem)
+- [@getify](https://twitter.com/getify)
+
+###Who to follow on Github
+- [@petehunt](https://github.com/petehunt)
+- [@paulirish](https://github.com/paulirish)
+- [@bradfrost](https://github.com/bradfrost)
+- [@codepo8](https://github.com/codepo8)
+- [@mdo](https://github.com/mdo)
+- [@sindresorhus](https://github.com/sindresorhus)
+- [@substack](https://github.com/substack)
+- [@addyosmani](https://github.com/addyosmani)
+- [@tj](https://github.com/tj)
+- [@chriscoyier](https://github.com/chriscoyier)
+- [@LeaVerou](https://github.com/LeaVerou)
+- [@remy](https://github.com/remy)
 
 
 ##Conferences
