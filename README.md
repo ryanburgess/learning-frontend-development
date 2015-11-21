@@ -1,6 +1,8 @@
 # Learning Front End Development
 I find I get asked a lot about how to learn more front end development. I wanted to put together a good list of resources that can help get someone started.
 
+Pull requests welcomed!
+
 ##Web Theory
 - [A Dao of Web Design](http://alistapart.com/article/dao)
 - [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
