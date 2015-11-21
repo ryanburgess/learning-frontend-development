@@ -56,8 +56,6 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 ##JavaScript
 JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
 
-###Tutorials
-
 ###Articles
 - [JavaScript the right way](http://jstherightway.org/)
 - [Getting Over jQuery](http://blog.ponyfoo.com/2013/07/09/getting-over-jquery)
@@ -92,6 +90,7 @@ JavaScript is a high-level, dynamic, untyped, and interpreted programming langua
 ####[Backbone.js](http://backbonejs.org/)
 - [Getting Started with Backbone.js](http://code.tutsplus.com/tutorials/getting-started-with-backbone-js--net-19751)
 - [Backbone.js Tips And Patterns](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
+- [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 
 ####[Angular.js](https://angularjs.org/)
 - [How to Learn AngularJS - Your AngularJS Sherpa](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
@@ -105,8 +104,14 @@ JavaScript is a high-level, dynamic, untyped, and interpreted programming langua
 ####[Polymer](https://www.polymer-project.org/)
 
 ####[jQuery](https://jquery.com/)
+- [A guide to the basics of jQuery](http://jqfundamentals.com/)
+- [Learning jQuery](http://www.learningjquery.com/)
 
 ####[Metor](https://www.meteor.com/)
+- [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
+- [Writing your first Meteor application](http://sebastiandahlgren.se/2013/07/17/tutorial-writing-your-first-metor-application/)
+- [Design a Complete Authentication System with Meteor](https://waaave.com/tutorial/meteor/design-a-complete-authentication-system-with-meteor/)
+- [Building a customized accounts UI for Meteor](http://blog.benmcmahen.com/post/41741539120/building-a-customized-accounts-ui-for-meteor)
 
 ####[Knockout](http://knockoutjs.com/)
 - [Introducing Knockout, a UI library for JavaScript](http://blog.stevensanderson.com/2010/07/05/introducing-knockout-a-ui-library-for-javascript/)
@@ -140,8 +145,6 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 ###Tutorials
 - [Node School](http://nodeschool.io/)
 - [Node Async Tutorial](http://justinklemm.com/node-js-async-tutorial/)
-
-###Books
 
 ###Frameworks
 - [Express](http://expressjs.com/)
