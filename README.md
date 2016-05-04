@@ -312,13 +312,21 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 ##Proposed Learning Track & Tips
 - These resources are meant to be completed sequentially
 - Some resources will be very short to read and/or complete while others could take 1 - 3 months (e.g. Eloquent Javascript)
--  After each HTML, CSS, or Javascript resource build a project to flex your coding muscles and put your skills to action
+-  After each HTML, CSS, or Javascript resource, build a project to flex your coding muscles and put your skills to action
+
+ ###Tips
+- Take notes when learning new concepts and revisit notes weekly
+- Create flashcards of javascript syntax and commonly used design patterns
+- Learn the history of the web and javscript [here](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
+- Do not get discouraged if you do not understand a concept immediately, just take a break and reread/retry in 5 minutes
+- Attend Meetups and volunteer your time to any interesting projects
+- Never stop learning
 
 | Resource | Subject | Descripton |
 | ---| ---| --- |
 | [HTML & CSS Overview](http://learn.shayhowe.com/) | HTML/CSS| Substantial Overview of HTML & CSS |
 | [30 CSS Selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) | CSS | Overview of CSS Selectors |
-| [Complete HTML & CSS Sections](http://freecodecamp.com)| HTML/CSS| Complete CSS & HTML Sections of FreeCode Camp|
+| [Finish HTML & CSS Sections](http://freecodecamp.com)| HTML/CSS| Compelete CSS & HTML Sections of FreeCode Camp|
 | [Command Line Introduction](http://cli.learncodethehardway.org/book/) | Bash | Introduction to Bash |
 | [GitBook](https://git-scm.com/book/en/v2)| Git/Github | Read Chapter 1 - 6 |
 | [Eloquent Javascript](http://eloquentjavascript.net/) | Javascript | Read and complete exercises chapters 1 -20, read chapter 21 |
@@ -339,13 +347,6 @@ As an asynchronous event driven framework, Node.js is designed to build scalable
 | [JS Tooling](https://www.manning.com/books/javascript-application-design) | Build Tools | Overview of what tools need to be put into place to create a full fledged app |
 | [Single Page Application Overview](http://singlepageappbook.com/) | Architecture | Overview of Design of a traditional SPA |
 
-###Tips
-- Take notes when learning new concepts and revisit notes weekly
-- Create flashcards of javascript syntax and commonly used design patterns
-- Learn the history of the web and javscript [here](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
-- Do not get discouraged if you do not understand a concept immediately, just take a break and reread/retry in 5 minutes
-- Attend Meetups and volunteer your time to any interesting projects
-- Never stop learning
 
 ## Contributing
 1. Fork it
